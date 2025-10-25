@@ -99,7 +99,7 @@
     <div class="product">
       <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Curso sobre TDAH">
       <h2>Curso Online: Controle o TDAH e Viva com Foco</h2>
-      <p>Aprenda técnicas práticas para lidar com distrações, impulsividade e procrastinação. Ideal para adultos e adolescentes com TDAH. Clique aqui para comprar: https://kiwify.app/e7bot14</p>
+      <p>Aprenda técnicas práticas para lidar com distrações, impulsividade e procrastinação. Ideal para adultos e adolescentes com TDAH. Clique aqui para ser direcionado a pagina de compra: https://kiwify.app/e7bot14</p>
       <p class="price">R$ 5
       ,00</p>
       <button class="btn">Comprar Agora</button>
